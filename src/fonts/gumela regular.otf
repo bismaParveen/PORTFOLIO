@@ -1,0 +1,13 @@
+ <style>
+ @font-face {
+        font-family: "Gumela Regular";
+        font-style: normal;
+        src: local("Gumela Regular"), url("Gumela.woff") format("woff");
+      }
+
+      * {
+font-family: 'Gumela';
+        font-weight: normal;
+font-size: 20px;
+      }
+<\style>
