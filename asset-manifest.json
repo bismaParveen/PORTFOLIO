@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO/static/css/main.d04233ef.css",
+    "main.js": "/PORTFOLIO/static/js/main.b05c16c8.js",
+    "static/js/787.7da95b79.chunk.js": "/PORTFOLIO/static/js/787.7da95b79.chunk.js",
+    "static/media/boy.png": "/PORTFOLIO/static/media/boy.0249fe7fc37477d3807d.png",
+    "static/media/thumbup.png": "/PORTFOLIO/static/media/thumbup.75f0dec35440511c7cfa.png",
+    "static/media/vector1.png": "/PORTFOLIO/static/media/vector1.7efc3a0a637dd3766745.png",
+    "static/media/crown.png": "/PORTFOLIO/static/media/crown.a2a6baa4b197f4a87318.png",
+    "static/media/humble.png": "/PORTFOLIO/static/media/humble.1ee5c8f853718318159a.png",
+    "static/media/heart.png": "/PORTFOLIO/static/media/heart.bf859247c7579aa03181.png",
+    "static/media/instagram.png": "/PORTFOLIO/static/media/instagram.fe5c5dbaf8f6296ec7a7.png",
+    "static/media/sunglasses.png": "/PORTFOLIO/static/media/sunglasses.103ad1fde7ec4409a889.png",
+    "static/media/musicapp.jpg": "/PORTFOLIO/static/media/musicapp.03e20920c7d1973eda06.jpg",
+    "static/media/wave.png": "/PORTFOLIO/static/media/wave.a285e877b8ef2b205ad4.png",
+    "static/media/vector2.png": "/PORTFOLIO/static/media/vector2.1e38b34c8840615c6cbc.png",
+    "static/media/profilepic1.jpg": "/PORTFOLIO/static/media/profilepic1.c0acaea612b31e422733.jpg",
+    "static/media/fiverr.png": "/PORTFOLIO/static/media/fiverr.5136c04e1026122dbbeb.png",
+    "static/media/shopify.png": "/PORTFOLIO/static/media/shopify.0b480f1b73aef1eab2af.png",
+    "static/media/Resume.pdf": "/PORTFOLIO/static/media/Resume.5826591d499b349313df.pdf",
+    "static/media/profilepic3.jpg": "/PORTFOLIO/static/media/profilepic3.5776827bffe95e0fe539.jpg",
+    "static/media/github.png": "/PORTFOLIO/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/facebook.png": "/PORTFOLIO/static/media/facebook.49fb52a8bbcdad48ddcb.png",
+    "static/media/glassesemoji.png": "/PORTFOLIO/static/media/glassesemoji.9b06d159e4235e40d989.png",
+    "static/media/linkedIn.png": "/PORTFOLIO/static/media/linkedIn.712c4ce3d6be06644d11.png",
+    "static/media/ecommerce.jpg": "/PORTFOLIO/static/media/ecommerce.17ec92b6e030b9131f87.jpg",
+    "static/media/HOC.png": "/PORTFOLIO/static/media/HOC.618f25f7804e71a826aa.png",
+    "static/media/sidebar.webp": "/PORTFOLIO/static/media/sidebar.c8238b25040571f5c296.webp",
+    "index.html": "/PORTFOLIO/index.html",
+    "main.d04233ef.css.map": "/PORTFOLIO/static/css/main.d04233ef.css.map",
+    "main.b05c16c8.js.map": "/PORTFOLIO/static/js/main.b05c16c8.js.map",
+    "787.7da95b79.chunk.js.map": "/PORTFOLIO/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04233ef.css",
+    "static/js/main.b05c16c8.js"
+  ]
+}
