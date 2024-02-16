@@ -4,7 +4,6 @@ import emailjs from "@emailjs/browser";
 import { themeContext } from "../Context";
 import { useContext } from "react";
 
-
 const Contact = () => {
   const theme = useContext(themeContext);
   const darkMode = theme.state.darkMode;
@@ -18,7 +17,7 @@ const Contact = () => {
     emailjs
       .sendForm(
         "service_7a2dn51",
-        "template_qr90ca8",
+        "template_t5ty33r",
         form.current,
         "6Y15etAbzG2oCVdk7"
       )
@@ -37,7 +36,7 @@ const Contact = () => {
     <div className="contact-form" id="Contact">
       <div className="w-left">
         <div className="awesome">
-          <span style={{color: darkMode ? 'white' : ''}}>Get in touch </span>
+          <span style={{ color: darkMode ? "white" : "" }}>Get in touch </span>
           <span>Contact me</span>
           <div
             className="blur s-blur1"
@@ -65,7 +64,7 @@ const Contact = () => {
             placeholder="Message"
             cols="30"
             rows="10"
-            style={{color: "black"}}
+            style={{ color: "black" }}
           ></textarea>
           <input type="submit" value="Send" className="button" />
           <span>{done && "Thanks for Contacting me!"}</span>
